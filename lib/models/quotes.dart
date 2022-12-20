@@ -1,0 +1,1 @@
+// import quotes from the database 
